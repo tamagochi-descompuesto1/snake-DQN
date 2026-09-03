@@ -80,7 +80,6 @@ Each decision rolls `rand(0, 200)`; if it's less than `ε`, the agent explores (
 ```
 Linear_QNet(
   state: 14 floats
-)
     │
     ▼
   Linear(14 → 256)
