@@ -1,0 +1,7 @@
+.venv_snake/
+__pycache__/
+*.pyc
+
+# trained checkpoints and run-specific stats regenerate by training,
+# don't want binary diffs / personal run state in the repo
+model/
