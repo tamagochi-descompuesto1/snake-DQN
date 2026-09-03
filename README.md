@@ -304,8 +304,10 @@ Fullscreen, retro-styled, split into:
 - **`PER STEP`**. Q-values for all 3 actions (with the chosen one highlighted), loss, reward, and steps-survived-this-game, all updating every single frame.
 - **`PER GENERATION`**. Score, epsilon, and mean score, updating once per completed game. The actual *"is it learning?"* signal.
 
-<!-- Drop screenshots/GIFs in assets/screenshots/ and reference them here, e.g.: -->
-<!-- ![Training dashboard](assets/screenshots/dashboard.png) -->
+<img width="1917" height="1078" alt="Captura de pantalla 2026-09-03 161037" src="https://github.com/user-attachments/assets/7621a325-89b7-4381-9d0d-f902192ac93a" />
+<img width="1917" height="1078" alt="Captura de pantalla 2026-09-03 161101" src="https://github.com/user-attachments/assets/bcf4efbd-ebcf-4a3f-8604-40faada4a5e1" />
+
+<img width="1918" height="1078" alt="Grabación de pantalla 2026-09-03 161647" src="https://github.com/user-attachments/assets/2d7d06c9-0d4b-493e-bd44-1f2b975785e4" />
 
 ---
 
